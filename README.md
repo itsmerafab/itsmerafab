@@ -1,3 +1,7 @@
-Oi, eu sou Rafaela Barros, tenho 26 anos e sou de Alagoas.
-Atualmente estou em transição de carreira, e estou cursando Sistemas de Informação.
-Hoje eu uso minhas experiências anteriores para desenvolver sites e aplicações web que são funcionais, intuitivos e visuais.
+👋 Hey, I'm Rafaela!
+
+Tenho 26 anos, estou em transição de carreira para a área de tecnologia, e estudando Sistemas de Informação.
+Sempre fui apaixonada por lógica e desenvolvimento de sistemas, e agora estou focada em aprender e evoluir como desenvolvedora.
+
+Atualmente, estou estudando HTML, CSS, JavaScript, Node.js, React.js, SQL.
+Meu objetivo é construir projetos práticos e aprimorar minhas habilidades para ingressar no mercado de tecnologia.
