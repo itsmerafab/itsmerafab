@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm 26 years old and currently transitioning my career into the technology field. I've always been passionate about logic and system development, and now I'm focused on learning and evolving as a developer. <br>Currently, I'm studying HTML, CSS, Javascript, React.js. My goal is to build practical projects and refine my skills to enter the technology job market.</p>
+<p align="left">I'm 26 years old and currently transitioning my career into the technology field. I've always been passionate about logic and system development, and now I'm focused on learning and evolving as a developer. <br>Currently, I'm studying HTML, CSS, Javascript, and TypeScript. My goal is to build practical projects and refine my skills to enter the technology job market.</p>
 
 
 <img align="right" height="250" src="https://media-hosting.imagekit.io//38c258c00491476c/productive.png?Expires=1835046057&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2mw6jUjXcgs7E0gg3tEsEEb8vm8Vd-cklLakE4cElB6lGLSDhd38Ss1-wvlIC~hLeDvssgsfD9QBRI~04Xu4TovtAWuoUBeWU6mxunSvyTOwEi-cw~Kuonnzw~1wj0vRhTT5OTzsjYMITspq6UdXt7jUbJ6V70Kj6g6C1GISgKOqa7rSEz~9WLHABVZH3VlTX07uW06c-e7zTihilp4kqTLbkNHSHGberlnGrzBgwOD5BxzSY-9Dq9GuyyXLEjgNMv0qUfHKxXWtbq~ilEix~EfP65zIX0GBSirPH5cFJL88JfrV3iUCBvRyIowedwgCwzr3cqeVKHyuEvsMDmmozw__"  />
